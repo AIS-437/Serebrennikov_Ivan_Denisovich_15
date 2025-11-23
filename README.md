@@ -98,7 +98,7 @@ Django Migrations и Alembic решают схожие задачи — упра
 
 ## Список литературы
 
-1.    Документация Django Migrations https://docs.djangoproject.com/en/5.2/topics/migrations/.
-2.    Документация Alembic https://alembic.sqlalchemy.org/en/latest/index.html.
-3.    Michael Bayer. Alembic Documentation https://alembic.sqlalchemy.org/en/latest/front.html
-4.    Django Project Official Documentation https://docs.djangoproject.com/en/5.2/.
+- Документация Django Migrations https://docs.djangoproject.com/en/5.2/topics/migrations/.
+- Документация Alembic https://alembic.sqlalchemy.org/en/latest/index.html.
+- Michael Bayer. Alembic Documentation https://alembic.sqlalchemy.org/en/latest/front.html
+- Django Project Official Documentation https://docs.djangoproject.com/en/5.2/.
